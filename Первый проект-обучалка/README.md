@@ -18,6 +18,6 @@
 
 [Путь к датасету](https://datalens.yandex.ru/datasets/pcwa6detrl70e-prodazhi-dataset)
 
-[Ссылка на дашборд по продажам магазинов](https://datalens.yandex/m9upyf4ukhpab)
+[Ссылка на дашборд по продажам магазинов](https://datalens.yandex.ru/m9upyf4ukhpab-dashbord-po-prodazham-magazinov)
 
 [Справочная информация как делать обучающее задание от Нетологии](https://github.com/DeminDaniil/Yandex-DataLens/blob/main/Практические_задания_Нетология_v07.docx)
